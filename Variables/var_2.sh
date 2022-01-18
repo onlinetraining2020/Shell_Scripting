@@ -3,4 +3,4 @@
 
 echo "Variable before initialised = $MYVAR"
 MYVAR="I am initialised"
-echo "Variable before initialised = $MYVAR"
+echo "Variable update initialised = $MYVAR"
